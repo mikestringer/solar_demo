@@ -1,0 +1,4 @@
+adafruit-blinka
+adafruit-circuitpython-ina219
+matplotlib
+numpy
